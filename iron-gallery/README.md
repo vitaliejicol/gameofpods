@@ -1,7 +1,7 @@
 #                                                    **Game of Pods - Iron Gallery**
 
 
-![image](https://user-images.githubusercontent.com/64328755/103560085-cb616100-4e7c-11eb-9ad3-c23934eab3a2.png)
+![image](https://user-images.githubusercontent.com/64328755/103563508-80e2e300-4e82-11eb-8da5-89a6a14b9bde.png)
 
 ### Overview
 
