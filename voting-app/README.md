@@ -281,5 +281,5 @@ Run the commands below to create Voting App
 
 if you have completed the challenge and turned all components to green you should get the message below 
 
-*Hen desarrollo, integreiddio. Hen integreiddio, testa. Hen testa, lifa.
+*Hen desarrollo, integreiddio. Hen integreiddio, testa. Hen testa, lifa.*
 
