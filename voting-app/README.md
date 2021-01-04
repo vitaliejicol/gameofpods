@@ -277,4 +277,9 @@ Run the commands below to create Voting App
 ### Note : Worker Deployment depends on the Database therefor it might take a second to turn it green on quiz portal as it waits for your db-deployment to be ready.
 
 
-## If you have completed the challenge and turned all 
+
+
+if you have completed the challenge and turned all components to green you should get the message below 
+
+*Hen desarrollo, integreiddio. Hen integreiddio, testa. Hen testa, lifa.
+
