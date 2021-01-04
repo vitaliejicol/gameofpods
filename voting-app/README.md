@@ -1,4 +1,4 @@
-**Game of Pods - Voting App**
+                                    **Game of Pods - Voting App**
 ![image](https://user-images.githubusercontent.com/64328755/103560085-cb616100-4e7c-11eb-9ad3-c23934eab3a2.png)
 Prerequisites:
 
