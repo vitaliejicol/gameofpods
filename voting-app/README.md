@@ -3,13 +3,13 @@
 
 ![image](https://user-images.githubusercontent.com/64328755/103560085-cb616100-4e7c-11eb-9ad3-c23934eab3a2.png)
 
-# Overview
+### Overview
 
 Game of PODs makes learning and practicing your Kubernetes skills fun by providing you with a set of challenges.
 
 Below we will take the Voting App challange and deploy a new application to our cluster.
 
-Prerequisites:
+### Prerequisites:
 
 1-Make sure have signed up and enrolled for https://kodekloud.com/p/game-of-pods 
 
