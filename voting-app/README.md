@@ -15,6 +15,8 @@ Below we will take the Voting App challange and deploy a new application to our 
 
 
 
+
+
 **A - Configuration of Voting App**
 
 We have request Voting App must run in our `vote` Namespace to create Namespace run command below;
