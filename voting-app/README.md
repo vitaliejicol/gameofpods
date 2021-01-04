@@ -259,4 +259,4 @@ Run the commands below to create Voting App
 
 `kubectl create -f result-deployment.yaml`
 
-###Note : Worker Deployment depends on the Database therefor it might take a second to turn it green on quiz portal as it waits for your db-deployment to be ready.
+### Note : Worker Deployment depends on the Database therefor it might take a second to turn it green on quiz portal as it waits for your db-deployment to be ready.
