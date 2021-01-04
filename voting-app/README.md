@@ -8,9 +8,12 @@
 Game of PODs makes learning and practicing your Kubernetes skills fun by providing you with a set of challenges.
 
 Below we will take the Voting App challange;
-     **Deploy a Voting Application**
-     **Configuring Namespaces**
-     **Exposing application through services**
+   **Configuring Namespaces
+   **Deploy a Voting Application
+
+   **Configuring Namespaces
+   
+   **Exposing application through services
 
 ### Prerequisites:
 
