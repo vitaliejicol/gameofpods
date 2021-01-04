@@ -1,0 +1,27 @@
+Hen desarrollo, integreiddio. Hen integreiddio, testa. Hen testa, lifa.
+
+   3  vim vote-deployment.yaml
+    4  kubectl create namespace vote
+    5  kubectl get namespaces
+    6  kubectl -f vote-deployment.yaml
+    7  kubectl create -f vote-deployment.yaml
+    8  clear
+    9  vim vote-service.yaml
+   10  kubectl create -f vote-service.yaml
+   11  vim redis-deployment.yaml
+   12  kubectl create -f redis-deployment.yaml
+   13  vim redis-service.yaml
+   14  kubectl create -f redis-service.yaml
+   15  vim worker.yaml
+   16  kubectl create -f worker.yaml
+   17  vim db-deployment.yaml
+   18  kubectl create -f db-deployment.yaml
+   19  vim db-service.yaml
+   20  kubectl create -f db-service.yaml
+   21  vim result-deployment.yaml
+   22  kubectl create -f result-deployment.yaml
+   23  vim result-service.yaml
+   24  kubectl create -f result-service.yaml
+   25  kubectl get pods -n vote
+   26  clear
+   27  history
