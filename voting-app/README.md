@@ -9,13 +9,11 @@ Game of PODs makes learning and practicing your Kubernetes skills fun by providi
 
 Below we will take the Voting App challange;
    
-   **Configuring Namespaces**
-   
-   **Deploy a Voting Application**
+   - Configuring Namespaces
+   - Deploy a Voting Application
+   - Exposing application through services
 
-   **Exposing application through services**
-   
-   
+  
    
    
 
