@@ -29,7 +29,7 @@ Below we will take the Iron Gallery challange;
 
 **A - Configuration of Iron Gallery**
 
-**Deploying the application and exposing thru services**
+
 
 Create a file `ingress.yaml` with configuration below
 
