@@ -14,7 +14,7 @@ Game of PODs makes learning and practicing your Kubernetes skills fun by providi
 Below we will take the Voting App challange and deploy a new application to our cluster.
 
 
-**A - Configuration of Voting APP**
+**A - Configuration of Voting App**
 
 We have request Voting App must run in our `vote` Namespace to create Namespace run command below;
 
@@ -259,4 +259,4 @@ Run the commands below to create Voting App
 
 `kubectl create -f result-deployment.yaml`
 
-**Note : Worker Deployment depends on the Database therefor it might take a second to turn it green on quiz portal as it waits for your db-deployment to be ready.
+###Note : Worker Deployment depends on the Database therefor it might take a second to turn it green on quiz portal as it waits for your db-deployment to be ready.
