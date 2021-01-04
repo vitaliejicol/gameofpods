@@ -8,6 +8,10 @@
 Game of PODs makes learning and practicing your Kubernetes skills fun by providing you with a set of challenges.
 
 Below we will take the Iron Gallery challange;
+   - asdasdad
+   - asdasdad
+   - asdasd
+   - asdasd
    
    **Create a Lychee Gallery and MariaDB Deployment**
    
