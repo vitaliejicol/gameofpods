@@ -34,6 +34,8 @@ We have request Voting App must run in our `vote` Namespace to create Namespace 
 `kubectl create namespace vote`
 
 
+**Deploying the application and exposing thru services**
+
 Create a file `vote-service.yaml` with configuration below
 
 ```
