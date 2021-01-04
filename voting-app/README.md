@@ -7,7 +7,10 @@
 
 Game of PODs makes learning and practicing your Kubernetes skills fun by providing you with a set of challenges.
 
-Below we will take the Voting App challange and deploy a new application to our cluster.
+Below we will take the Voting App challange;
+     **Deploy a Voting Application**
+     **Configuring Namespaces**
+     **Exposing application through services**
 
 ### Prerequisites:
 
@@ -263,3 +266,6 @@ Run the commands below to create Voting App
 `kubectl create -f result-deployment.yaml`
 
 ### Note : Worker Deployment depends on the Database therefor it might take a second to turn it green on quiz portal as it waits for your db-deployment to be ready.
+
+
+## If you have completed the challenge and turned all 
