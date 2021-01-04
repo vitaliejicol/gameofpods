@@ -8,21 +8,12 @@
 Game of PODs makes learning and practicing your Kubernetes skills fun by providing you with a set of challenges.
 
 Below we will take the Iron Gallery challange;
-   - asdasdad
-   - asdasdad
-   - asdasd
-   - asdasd
-   
-   **Create a Lychee Gallery and MariaDB Deployment**
-   
-   **Create Services for iron-gallery and iron-db**
-
-   **Create Ingress Resource**
-
-   **Create Volumes for the Deployment**
-
-   **Apply NetworkPolicy on Pods**
-   
+   - Create a Lychee Gallery and MariaDB Deployment
+   - Create Services for iron-gallery and iron-db
+   - Create Ingress Resource
+   - Create Volumes for the Deployment
+   - Apply NetworkPolicy on Pods
+  
    
    
    
